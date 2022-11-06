@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](design\PRNTSCRN.jpg)
+![Screenshot](design/PRNTSCRN.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Iskelo/3-column-preview-card-component)
-- Live Site URL: [Add live site URL here](https://iskelo.github.com/3-column-preview-card-component)
+- Solution URL: [github.com/Iskelo/3-column-preview-card-component](https://github.com/Iskelo/3-column-preview-card-component)
+- Live Site URL: [iskelo.github.com/3-column-preview-card-component](https://iskelo.github.com/3-column-preview-card-component)
 
 ## My process
 
@@ -44,11 +44,11 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/) - This helped me for border reason. I really liked this pattern and will use it going forward.
+- [w3schools](https://www.w3schools.com/) - This helped me for border reason. I really liked this pattern and will use it going forward.
 
 
 ## Author
 
-- Website - [Add your name here](https://github.com/Iskelo)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Iskelo)
+- Website - [github.com/Iskelo](https://github.com/Iskelo)
+- Frontend Mentor - [@Iskelo](https://www.frontendmentor.io/profile/Iskelo)
 
