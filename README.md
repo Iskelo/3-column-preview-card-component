@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](design\PRNTSCRN.jpg)
+![](/design\PRNTSCRN.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Iskelo/3-column-preview-card-component)
-- Live Site URL: [Add live site URL here](https://iskelo.github.com/3-column-preview-card-component)
+- Solution URL: [github.com/Iskelo/3-column-preview-card-component](https://github.com/Iskelo/3-column-preview-card-component)
+- Live Site URL: [iskelo.github.com/3-column-preview-card-component](https://iskelo.github.com/3-column-preview-card-component)
 
 ## My process
 
