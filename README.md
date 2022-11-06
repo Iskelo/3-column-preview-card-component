@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/design\PRNTSCRN.jpg)
+![Screenshot](design/PRNTSCRN.jpg)
 
 ### Links
 
@@ -44,11 +44,11 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/) - This helped me for border reason. I really liked this pattern and will use it going forward.
+- [w3schools](https://www.w3schools.com/) - This helped me for border reason. I really liked this pattern and will use it going forward.
 
 
 ## Author
 
-- Website - [Add your name here](https://github.com/Iskelo)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Iskelo)
+- Website - [github.com/Iskelo](https://github.com/Iskelo)
+- Frontend Mentor - [@Iskelo](https://www.frontendmentor.io/profile/Iskelo)
 
